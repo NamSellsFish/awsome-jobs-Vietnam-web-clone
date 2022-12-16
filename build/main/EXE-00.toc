@@ -1,0 +1,224 @@
+('D:\\Files Kỉ Niệm\\Tài liệu chuyên ngành\\Code\\Python\\Tài liệu '
+ 'PyMi\\pyfml\\Answers of Exercises '
+ '9+10\\awsome-jobs-Vietnam-web-clone\\dist\\main.exe',
+ True,
+ False,
+ False,
+ 'D:\\Program '
+ 'Files\\Python\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ None,
+ False,
+ False,
+ '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity type="win32" name="main" processorArchitecture="amd64" version="1.0.0.0"/><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" language="*" processorArchitecture="*" version="6.0.0.0" publicKeyToken="6595b64144ccf1df"/></dependentAssembly></dependency><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/></application></compatibility><application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings><longPathAware xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">true</longPathAware></windowsSettings></application></assembly>',
+ True,
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'D:\\Files Kỉ Niệm\\Tài liệu chuyên ngành\\Code\\Python\\Tài liệu '
+ 'PyMi\\pyfml\\Answers of Exercises '
+ '9+10\\awsome-jobs-Vietnam-web-clone\\build\\main\\main.pkg',
+ [('PYZ-00.pyz',
+   'D:\\Files Kỉ Niệm\\Tài liệu chuyên ngành\\Code\\Python\\Tài liệu '
+   'PyMi\\pyfml\\Answers of Exercises '
+   '9+10\\awsome-jobs-Vietnam-web-clone\\build\\main\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Files Kỉ Niệm\\Tài liệu chuyên ngành\\Code\\Python\\Tài liệu '
+   'PyMi\\pyfml\\Answers of Exercises '
+   '9+10\\awsome-jobs-Vietnam-web-clone\\build\\main\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Files Kỉ Niệm\\Tài liệu chuyên ngành\\Code\\Python\\Tài liệu '
+   'PyMi\\pyfml\\Answers of Exercises '
+   '9+10\\awsome-jobs-Vietnam-web-clone\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Files Kỉ Niệm\\Tài liệu chuyên ngành\\Code\\Python\\Tài liệu '
+   'PyMi\\pyfml\\Answers of Exercises '
+   '9+10\\awsome-jobs-Vietnam-web-clone\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Files Kỉ Niệm\\Tài liệu chuyên ngành\\Code\\Python\\Tài liệu '
+   'PyMi\\pyfml\\Answers of Exercises '
+   '9+10\\awsome-jobs-Vietnam-web-clone\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Files Kỉ Niệm\\Tài liệu chuyên ngành\\Code\\Python\\Tài liệu '
+   'PyMi\\pyfml\\Answers of Exercises '
+   '9+10\\awsome-jobs-Vietnam-web-clone\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('main',
+   'D:\\Files Kỉ Niệm\\Tài liệu chuyên ngành\\Code\\Python\\Tài liệu '
+   'PyMi\\pyfml\\Answers of Exercises '
+   '9+10\\awsome-jobs-Vietnam-web-clone\\main.py',
+   'PYSOURCE'),
+  ('VCRUNTIME140.dll', 'D:\\Program Files\\Python\\VCRUNTIME140.dll', 'BINARY'),
+  ('python311.dll', 'D:\\Program Files\\Python\\python311.dll', 'BINARY'),
+  ('pywin32_system32\\pythoncom311.dll',
+   'C:\\Users\\Lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\pywin32_system32\\pythoncom311.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes311.dll',
+   'C:\\Users\\Lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\pywin32_system32\\pywintypes311.dll',
+   'BINARY'),
+  ('win32trace.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('win32ui.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'D:\\Program Files\\Python\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'D:\\Program Files\\Python\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select.pyd', 'D:\\Program Files\\Python\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_socket.pyd', 'D:\\Program Files\\Python\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'D:\\Program Files\\Python\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'D:\\Program Files\\Python\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('_ssl.pyd', 'D:\\Program Files\\Python\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_win32sysloader.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('win32api.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('markupsafe\\_speedups.cp311-win_amd64.pyd',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\markupsafe\\_speedups.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'D:\\Program Files\\Python\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_queue.pyd', 'D:\\Program Files\\Python\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('_ctypes.pyd', 'D:\\Program Files\\Python\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'D:\\Program Files\\Python\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd', 'D:\\Program Files\\Python\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('_asyncio.pyd',
+   'D:\\Program Files\\Python\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('win32com\\shell\\shell.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\win32comext\\shell\\shell.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'D:\\Program Files\\Python\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd', 'D:\\Program Files\\Python\\DLLs\\_uuid.pyd', 'EXTENSION'),
+  ('cryptography\\hazmat\\bindings\\_openssl.pyd',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_openssl.pyd',
+   'EXTENSION'),
+  ('cryptography\\hazmat\\bindings\\_rust.pyd',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp311-win_amd64.pyd',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\_cffi_backend.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'D:\\Program Files\\Python\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('mfc140u.dll',
+   'C:\\Users\\Lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'D:\\Program Files\\Python\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'D:\\Program Files\\Python\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-8.dll', 'D:\\Program Files\\Python\\DLLs\\libffi-8.dll', 'BINARY'),
+  ('python3.dll', 'D:\\Program Files\\Python\\python3.dll', 'BINARY'),
+  ('sqlite3.dll', 'D:\\Program Files\\Python\\DLLs\\sqlite3.dll', 'BINARY'),
+  ('base_library.zip',
+   'D:\\Files Kỉ Niệm\\Tài liệu chuyên ngành\\Code\\Python\\Tài liệu '
+   'PyMi\\pyfml\\Answers of Exercises '
+   '9+10\\awsome-jobs-Vietnam-web-clone\\build\\main\\base_library.zip',
+   'DATA'),
+  ('cryptography-38.0.3.dist-info\\LICENSE.APACHE',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\cryptography-38.0.3.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('cryptography-38.0.3.dist-info\\LICENSE',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\cryptography-38.0.3.dist-info\\LICENSE',
+   'DATA'),
+  ('cryptography-38.0.3.dist-info\\INSTALLER',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\cryptography-38.0.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-38.0.3.dist-info\\WHEEL',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\cryptography-38.0.3.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-38.0.3.dist-info\\RECORD',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\cryptography-38.0.3.dist-info\\RECORD',
+   'DATA'),
+  ('cryptography-38.0.3.dist-info\\LICENSE.PSF',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\cryptography-38.0.3.dist-info\\LICENSE.PSF',
+   'DATA'),
+  ('certifi\\py.typed',
+   'D:\\Program Files\\Python\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'D:\\Program Files\\Python\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('cryptography-38.0.3.dist-info\\METADATA',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\cryptography-38.0.3.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-38.0.3.dist-info\\top_level.txt',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\cryptography-38.0.3.dist-info\\top_level.txt',
+   'DATA'),
+  ('cryptography-38.0.3.dist-info\\LICENSE.BSD',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\cryptography-38.0.3.dist-info\\LICENSE.BSD',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1671153771,
+ [('run.exe',
+   'D:\\Program '
+   'Files\\Python\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+   'EXECUTABLE')])
